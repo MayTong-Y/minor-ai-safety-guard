@@ -1,0 +1,7 @@
+interface:
+  display_name: "未成年人 AI 安全校准器"
+  short_description: "校准未成年人对话中的事实、迎合、依赖、边界和危机风险"
+  default_prompt: "Use $minor-ai-safety-guard to calibrate a response for a likely minor in a school conflict."
+
+policy:
+  allow_implicit_invocation: true
